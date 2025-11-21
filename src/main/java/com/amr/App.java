@@ -1,4 +1,4 @@
-package groupId;
+package com.amr;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package groupId;
+package com.amr;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
